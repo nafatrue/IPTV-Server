@@ -2,7 +2,7 @@
     {
         "group": "|FR|\ud83c\uddeb\ud83c\uddf7 INFORMATION",
         "name": "BFM TV",
-        "logo_url": "https://i.ibb.co/kckRLh5/bfm.png\" group-title=\"|FR|\ud83c\uddeb\ud83c\uddf7 INFORMATION",
+        "logo_url": "https://i.ibb.co/kckRLh5/bfm.png",
         "url": "https://bfmtvalive1-a.akamaihd.net/r253dc974e55741fdaa2b250a83d40fa2/eu-central-1/876450610001/playlist.m3u8"
     },
     {
@@ -254,7 +254,7 @@
     {
         "group": "|FR|\ud83c\uddeb\ud83c\uddf7 G\u00c9N\u00c9RALISTE",
         "name": "TF1",
-        "logo_url": "https://i.ibb.co/BBpR1Wx/tf1.png\" group-title=\"|FR|\ud83c\uddeb\ud83c\uddf7 G\u00c9N\u00c9RALISTE",
+        "logo_url": "https://i.ibb.co/BBpR1Wx/tf1.png",
         "url": "https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8"
     },
     {
@@ -488,7 +488,7 @@
     {
         "group": "|FR|\ud83c\uddeb\ud83c\uddf7 SOCI\u00c9T\u00c9",
         "name": "FUN RADIO TV BE",
-        "logo_url": "https://i.ibb.co/ByN83p3/funradtv.png\" group-title=\"|FR|\ud83c\uddeb\ud83c\uddf7 SOCI\u00c9T\u00c9",
+        "logo_url": "https://i.ibb.co/ByN83p3/funradtv.png",
         "url": "https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8"
     },
     {
@@ -668,7 +668,7 @@
     {
         "group": "|TR|\ud83c\uddf9\ud83c\uddf7 HABER-1",
         "name": "TRT HABER",
-        "logo_url": "https://i.ibb.co/Bt6frts/trthaber.png\" group-title=\"|TR|\ud83c\uddf9\ud83c\uddf7 HABER-1",
+        "logo_url": "https://i.ibb.co/Bt6frts/trthaber.png",
         "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
     },
     {
@@ -824,7 +824,7 @@
     {
         "group": "|TR|\ud83c\uddf9\ud83c\uddf7 HABER-2",
         "name": "FLASH HABER",
-        "logo_url": "https://i.ibb.co/F5FcvbZ/flash4ok.png\" group-title=\"|TR|\ud83c\uddf9\ud83c\uddf7 HABER-2",
+        "logo_url": "https://i.ibb.co/F5FcvbZ/flash4ok.png",
         "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8"
     },
     {
@@ -1052,7 +1052,7 @@
     {
         "group": "|TR|\ud83c\uddf9\ud83c\uddf7 GENEL",
         "name": "TRT 1",
-        "logo_url": "https://i.ibb.co/d6c87Km/trt122.png\" group-title=\"|TR|\ud83c\uddf9\ud83c\uddf7 GENEL",
+        "logo_url": "https://i.ibb.co/d6c87Km/trt122.png",
         "url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8"
     },
     {
@@ -1316,7 +1316,7 @@
     {
         "group": "|TR|\ud83c\uddf9\ud83c\uddf7 BELGESEL/YA\u015eAM",
         "name": "TRT BELGESEL",
-        "logo_url": "https://i.ibb.co/N1h8m96/trtbelgesel.png\" group-title=\"|TR|\ud83c\uddf9\ud83c\uddf7 BELGESEL/YA\u015eAM",
+        "logo_url": "https://i.ibb.co/N1h8m96/trtbelgesel.png",
         "url": "http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
     },
     {
@@ -1476,189 +1476,9 @@
         "url": "https://mn-nl.mncdn.com/blutv_womantv/womantv_sd.smil/playlist.m3u8"
     },
     {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT \u00c7OCUK",
-        "logo_url": "https://i.ibb.co/YjkMYbF/trtcocuk21a.png\" group-title=\"|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT \u00c7OCUK",
-        "logo_url": "https://i.ibb.co/YjkMYbF/trtcocuk21a.png",
-        "url": "https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT D\u0130YANET \u00c7OCUK",
-        "logo_url": "https://i.ibb.co/qDF8pHQ/tdcc.png",
-        "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT D\u0130YANET \u00c7OCUK",
-        "logo_url": "https://i.ibb.co/qDF8pHQ/tdcc.png",
-        "url": "https://mn-nl.mncdn.com/blutv_trtcocukdiyanet/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "D\u0130YANET \u00c7OCUK TV",
-        "logo_url": "https://i.ibb.co/DM1tZ9Q/diyncc.png",
-        "url": "https://live.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "CARTOON NETWORK TR",
-        "logo_url": "https://i.ibb.co/Zxd0j45/cartoonnetwork.png",
-        "url": "https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "GALATASARAY TV",
-        "logo_url": "https://i.ibb.co/SwwjnF5/gstv.png",
-        "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "FENERBAHCE TV",
-        "logo_url": "https://i.ibb.co/867fC4z/fbtv22a.png",
-        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fbtv.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "SPORTS TV",
-        "logo_url": "https://i.ibb.co/4Rm7Z6Z/sports22.png",
-        "url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "SPORTS TV",
-        "logo_url": "https://i.ibb.co/4Rm7Z6Z/sports22.png",
-        "url": "https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "BIS HABER",
-        "logo_url": "https://i.ibb.co/BfM21nC/beinhaber.png",
-        "url": "https://live.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "BIS HABER",
-        "logo_url": "https://i.ibb.co/BfM21nC/beinhaber.png",
-        "url": "https://ythls.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "A SPOR",
-        "logo_url": "https://i.ibb.co/xSjB51j/aspor.png",
-        "url": "https://live.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "A SPOR",
-        "logo_url": "https://i.ibb.co/xSjB51j/aspor.png",
-        "url": "https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT SPOR [geo-blocked]",
-        "logo_url": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
-        "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT SPOR [geo-blocked]",
-        "logo_url": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
-        "url": "https://mn-nl.mncdn.com/blutv_trtspor/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT SPOR2 YILDIZ [geo-blocked]",
-        "logo_url": "https://i.ibb.co/ky3qVPc/trtspory2.png",
-        "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT SPOR2 YILDIZ [geo-blocked]",
-        "logo_url": "https://i.ibb.co/ky3qVPc/trtspory2.png",
-        "url": "https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT EBA ILK",
-        "logo_url": "https://i.ibb.co/zfwmCCp/ilkoku22.png",
-        "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT EBA ILK",
-        "logo_url": "https://i.ibb.co/zfwmCCp/ilkoku22.png",
-        "url": "https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT EBA ORTA",
-        "logo_url": "https://i.ibb.co/1JbF8xB/ortaoku22.png.png",
-        "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT EBA ORTA",
-        "logo_url": "https://i.ibb.co/1JbF8xB/ortaoku22.png.png",
-        "url": "https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT EBA LISE",
-        "logo_url": "https://i.ibb.co/v42mWjF/lise22.png",
-        "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT EBA LISE",
-        "logo_url": "https://i.ibb.co/v42mWjF/lise22.png",
-        "url": "https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT \u00c7OCUK (backup)",
-        "logo_url": "https://i.ibb.co/YjkMYbF/trtcocuk21a.png",
-        "url": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TJK TV [geo-blocked]",
-        "logo_url": "https://i.ibb.co/0Yt6jbg/tjk.png",
-        "url": "http://tjktv.ercdn.net/tjktv.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TJK TV [geo-blocked]",
-        "logo_url": "https://i.ibb.co/0Yt6jbg/tjk.png",
-        "url": "http://tjktv-live.tjk.org/tjktv.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "TRT3 SPOR [offline]",
-        "logo_url": "https://i.ibb.co/M9kWXzt/trt3spor22c.png",
-        "url": "https://tv-trt3.live.trt.com.tr/master.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "A SPOR [tkn-blocked]",
-        "logo_url": "https://i.ibb.co/xSjB51j/aspor.png",
-        "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
-    },
-    {
-        "group": "|TR|\ud83c\uddf9\ud83c\uddf7 \u00c7OCUK/SPOR",
-        "name": "A SPOR [tkn-blocked]",
-        "logo_url": "https://i.ibb.co/xSjB51j/aspor.png",
-        "url": "https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765"
-    },
-    {
         "group": "|TR|\ud83c\uddf9\ud83c\uddf7 M\u00dcZ\u0130K",
         "name": "TRT M\u00dcZ\u0130K",
-        "logo_url": "https://i.ibb.co/d6Zfm2P/trtmuzik21c.png\" group-title=\"|TR|\ud83c\uddf9\ud83c\uddf7 M\u00dcZ\u0130K",
+        "logo_url": "https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",
         "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
     },
     {
@@ -1874,7 +1694,7 @@
     {
         "group": "|TR|\ud83c\uddf9\ud83c\uddf7 D\u0130\u011eER",
         "name": "TRT AVAZ",
-        "logo_url": "https://i.ibb.co/xzZk0Yq/trtavaz.png\" group-title=\"|TR|\ud83c\uddf9\ud83c\uddf7 D\u0130\u011eER",
+        "logo_url": "https://i.ibb.co/xzZk0Yq/trtavaz.png",
         "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
     },
     {
@@ -2004,15 +1824,255 @@
         "url": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8"
     },
     {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KAN 11 \u05db\u05d0\u05df",
+        "logo_url": "https://i.ibb.co/fMMBKqc/kan11.png",
+        "url": "https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KAN 11 \u05db\u05d0\u05df",
+        "logo_url": "https://i.ibb.co/fMMBKqc/kan11.png",
+        "url": "https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KAN 11 \u05db\u05d0\u05df",
+        "logo_url": "https://i.ibb.co/fMMBKqc/kan11.png",
+        "url": "https://kan11b.media.kan.org.il/hls/live/2096972/2096972/playlist.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://repe-depo.000webhostapp.com/kmk.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://ideorpo.alwaysdata.net/kmb.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "http://rdope.infinityfreeapp.com/kmc.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "RESHET 13 \u05e8\u05e9\u05ea",
+        "logo_url": "https://i.ibb.co/MnSQCcr/R1322.jpg",
+        "url": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "RESHET 13 \u05e8\u05e9\u05ea",
+        "logo_url": "https://i.ibb.co/MnSQCcr/R1322.jpg",
+        "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "RESHET 13 \u05e8\u05e9\u05ea",
+        "logo_url": "https://i.ibb.co/MnSQCcr/R1322.jpg",
+        "url": "https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "NOW 14 \u05e2\u05db\u05e9\u05d9\u05d5",
+        "logo_url": "https://i.ibb.co/4g6BSYf/now14smgri.png",
+        "url": "https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/master.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "HINUCHIT 23 \u05d7\u05d9\u05e0\u05d5\u05db\u05d9\u05ea",
+        "logo_url": "https://i.ibb.co/tLYB26T/h2322.png",
+        "url": "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "MAKO 24 \u05e2\u05e8\u05d5\u05e5",
+        "logo_url": "https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",
+        "url": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "HAKNESSET 99 \u05db\u05e0\u05e1\u05ea",
+        "logo_url": "https://i.ibb.co/zP5vjLD/knesset.png",
+        "url": "https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "HAKNESSET 99 \u05db\u05e0\u05e1\u05ea",
+        "logo_url": "https://i.ibb.co/zP5vjLD/knesset.png",
+        "url": "https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "NEWS 12 \u05d7\u05d3\u05e9\u05d5\u05ea [find-host]",
+        "logo_url": "https://i.ibb.co/1rSGfFw/N12n.png",
+        "url": "https://PuthereYourserverHostaddress/n12.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "I24 NEWS FR",
+        "logo_url": "https://i.ibb.co/j68q1Bp/i24.png",
+        "url": "https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "I24 NEWS AR",
+        "logo_url": "https://i.ibb.co/j68q1Bp/i24.png",
+        "url": "https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "YNET NEWS",
+        "logo_url": "https://i.ibb.co/kq4XM0Y/ynet.png",
+        "url": "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "WALLA ! +",
+        "logo_url": "https://i.ibb.co/jzRyjBn/walla.png",
+        "url": "https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "WALLA ! +",
+        "logo_url": "https://i.ibb.co/jzRyjBn/walla.png",
+        "url": "https://live.wcdn.co.il/news/prog_index.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "WALLA ! +",
+        "logo_url": "https://i.ibb.co/jzRyjBn/walla.png",
+        "url": "https://live.wcdn.co.il/yes/prog_index.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KABBALAH 96",
+        "logo_url": "https://i.ibb.co/93bQz4t/kabalah.png",
+        "url": "http://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "HIDABROOT 97",
+        "logo_url": "https://i.ibb.co/bJVPhHD/hidabroot.png",
+        "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "SHOPPING 21",
+        "logo_url": "https://i.ibb.co/2g7Sw4c/21.jpg",
+        "url": "https://shoppingil-rewriter.vidnt.com/index.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "PANET 30 HALA \u0647\u0644\u0627",
+        "logo_url": "https://i.ibb.co/MG43H4H/hala.png",
+        "url": "https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "PANET 30 HALA \u0647\u0644\u0627",
+        "logo_url": "https://i.ibb.co/MG43H4H/hala.png",
+        "url": "https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KAN 33 MAKAN \u0645\u0643\u0627\u0646",
+        "logo_url": "https://i.ibb.co/fqTYrGY/33.png",
+        "url": "https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KAN 11 \u05db\u05d0\u05df (backlink)",
+        "logo_url": "https://i.ibb.co/fMMBKqc/kan11.png",
+        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_sdqcljik/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KAN 11 \u05db\u05d0\u05df (backlink)",
+        "logo_url": "https://i.ibb.co/fMMBKqc/kan11.png",
+        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_8ji7g6s3/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "HINUCHIT 23 \u05d7\u05d9\u05e0\u05d5\u05db\u05d9\u05ea (backlink)",
+        "logo_url": "https://i.ibb.co/tLYB26T/h2322.png",
+        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vd30ud46/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KAN 33 MAKAN \u0645\u0643\u0627\u0646 (backlink)",
+        "logo_url": "https://i.ibb.co/fqTYrGY/33.png",
+        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_vw6qllis/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea [find-host]",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://PuthereYourserverHostaddress/k12.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea [find-host]",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://PuthereYourserverHostaddress/k12dvr.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea [find-host]",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://PuthereYourserverHostaddress/k12cc.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "MAKO 24 \u05e2\u05e8\u05d5\u05e5 [find-host]",
+        "logo_url": "https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",
+        "url": "https://PuthereYourserverHostaddress/ch24.php?m3u8"
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea [mako-src]",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://mako-streaming.akamaized.net/direct/hls/live/2035325/k12cc/index.m3u8?hdnea="
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea [mako-src]",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?hdnea="
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "KESHET 12 \u05e7\u05e9\u05ea [mako-src]",
+        "logo_url": "https://i.ibb.co/5TQ4RM3/Keshet12.png",
+        "url": "https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?hdnea="
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "MAKO 24 \u05e2\u05e8\u05d5\u05e5 [mako-src]",
+        "logo_url": "https://i.ibb.co/7nYM8MK/arutz24tvtrp.png",
+        "url": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?hdnea="
+    },
+    {
+        "group": "|IL|\ud83c\uddee\ud83c\uddf1 ISRAEL",
+        "name": "NEWS 12 \u05d7\u05d3\u05e9\u05d5\u05ea [mako-src]",
+        "logo_url": "https://i.ibb.co/1rSGfFw/N12n.png",
+        "url": "https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index.m3u8?hdnea="
+    },
+    {
         "group": "|ES|\ud83c\uddea\ud83c\uddf8 ESPA\u00d1A",
         "name": "TVE LA 1",
-        "logo_url": "https://i.ibb.co/VM5vGBV/la1.jpg\" group-title=\"|ES|\ud83c\uddea\ud83c\uddf8 ESPA\u00d1A",
+        "logo_url": "https://i.ibb.co/VM5vGBV/la1.jpg",
         "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
     },
     {
         "group": "|ES|\ud83c\uddea\ud83c\uddf8 ESPA\u00d1A",
         "name": "TVE LA 1",
-        "logo_url": "https://i.ibb.co/VM5vGBV/la1.jpg\" group-title=\"|ES|\ud83c\uddea\ud83c\uddf8 ESPA\u00d1A",
+        "logo_url": "https://i.ibb.co/VM5vGBV/la1.jpg",
         "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8"
     },
     {
@@ -2330,7 +2390,7 @@
     {
         "group": "|PT|\ud83c\uddf5\ud83c\uddf9 PORTUGAL",
         "name": "RTP I",
-        "logo_url": "https://i.ibb.co/SPR2SDK/RTP.png\" group-title=\"|PT|\ud83c\uddf5\ud83c\uddf9 PORTUGAL",
+        "logo_url": "https://i.ibb.co/SPR2SDK/RTP.png",
         "url": "https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8"
     },
     {
@@ -2534,13 +2594,13 @@
     {
         "group": "|PT|\ud83c\uddf5\ud83c\uddf9 PORTUGAL",
         "name": "RTP 1 [ontv-off]",
-        "logo_url": "https://i.ibb.co/3YZFCjp/rtp1.jpg\" user-agent=\"Firefox",
+        "logo_url": "https://i.ibb.co/3YZFCjp/rtp1.jpg",
         "url": "https://streaming-live-app.rtp.pt/liverepeater/rtp1HD.smil/rtp_playlist.m3u8"
     },
     {
         "group": "|PT|\ud83c\uddf5\ud83c\uddf9 PORTUGAL",
         "name": "RTP 2 [ontv-off]",
-        "logo_url": "https://i.ibb.co/tbFT1V2/rtp2.jpg\" user-agent=\"Firefox",
+        "logo_url": "https://i.ibb.co/tbFT1V2/rtp2.jpg",
         "url": "https://streaming-live-app.rtp.pt/liverepeater/rtp2HD.smil/rtp_playlist.m3u8"
     },
     {
@@ -2576,7 +2636,7 @@
     {
         "group": "|MA-DZ-TN|\ud83c\uddf2\ud83c\udde6\ud83c\udde9\ud83c\uddff\ud83c\uddf9\ud83c\uddf3 MAGHREB",
         "name": "WATANIA 1",
-        "logo_url": "https://i.ibb.co/5M4CwmQ/watania1.png\" group-title=\"|MA-DZ-TN|\ud83c\uddf2\ud83c\udde6\ud83c\udde9\ud83c\uddff\ud83c\uddf9\ud83c\uddf3 MAGHREB",
+        "logo_url": "https://i.ibb.co/5M4CwmQ/watania1.png",
         "url": "http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8"
     },
     {
@@ -2858,7 +2918,7 @@
     {
         "group": "|AR|\ud83c\uddf8\ud83c\udde6 MIDDLE EAST",
         "name": "LBC LBN",
-        "logo_url": "https://i.ibb.co/YhMgggj/lbcb.jpg\" group-title=\"|AR|\ud83c\uddf8\ud83c\udde6 MIDDLE EAST",
+        "logo_url": "https://i.ibb.co/YhMgggj/lbcb.jpg",
         "url": "https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8"
     },
     {
@@ -3242,7 +3302,7 @@
     {
         "group": "|AR|\ud83c\uddf8\ud83c\udde6 THEMATICS-1",
         "name": "AL JAZEERA",
-        "logo_url": "https://i.ibb.co/jLYWYh7/Al-Jazeera.png\" group-title=\"|AR|\ud83c\uddf8\ud83c\udde6 THEMATICS-1",
+        "logo_url": "https://i.ibb.co/jLYWYh7/Al-Jazeera.png",
         "url": "http://live-hls-web-aja.getaj.net/AJA/index.m3u8"
     },
     {
@@ -3542,7 +3602,7 @@
     {
         "group": "|AR|\ud83c\uddf8\ud83c\udde6 THEMATICS-2",
         "name": "MBC 1",
-        "logo_url": "https://i.ibb.co/N19JFwZ/mbc.png\" group-title=\"|AR|\ud83c\uddf8\ud83c\udde6 THEMATICS-2",
+        "logo_url": "https://i.ibb.co/N19JFwZ/mbc.png",
         "url": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8"
     },
     {
@@ -3848,7 +3908,7 @@
     {
         "group": "|EN|\u2139\ufe0f WORLD",
         "name": "CNN INT",
-        "logo_url": "https://i.ibb.co/XbSHxd5/cnn.png\" group-title=\"|EN|\u2139\ufe0f WORLD",
+        "logo_url": "https://i.ibb.co/XbSHxd5/cnn.png",
         "url": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
     {
@@ -3878,13 +3938,13 @@
     {
         "group": "|EN|\u2139\ufe0f WORLD",
         "name": "CNN INT",
-        "logo_url": "https://i.ibb.co/XbSHxd5/cnn.png\" user-agent=\"Star Wars",
+        "logo_url": "https://i.ibb.co/XbSHxd5/cnn.png",
         "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
     },
     {
         "group": "|EN|\u2139\ufe0f WORLD",
         "name": "CNN INT",
-        "logo_url": "https://i.ibb.co/XbSHxd5/cnn.png\" user-agent=\"Star Wars",
+        "logo_url": "https://i.ibb.co/XbSHxd5/cnn.png",
         "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8"
     },
     {
@@ -4220,7 +4280,7 @@
     {
         "group": "|\ud83d\udce1|\ud83d\udc68\u200d\ud83d\udcbbGITHUB.COM/IPSTREET312",
         "name": "MORE-INFO\u27a1\ufe0f: \u261bRECEPTIONIPTV.BLOGSPOT.COM",
-        "logo_url": "https://i.ibb.co/mywSdSQ/att.png\" group-title=\"|\ud83d\udce1|\ud83d\udc68\u200d\ud83d\udcbbGITHUB.COM/IPSTREET312",
+        "logo_url": "https://i.ibb.co/mywSdSQ/att.png",
         "url": "https://github.com/ipstreet312/freeiptv/raw/master/feed/blogv.ts"
     },
     {
